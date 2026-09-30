@@ -1,0 +1,14 @@
+Item,Value
+Feature matrix,516 x 21
+Train window,492 months (1982-01 to 2022-12)
+Holdout window,24 months (2023-01 to 2024-12)
+CV design,"5 folds x 24 months, expanding"
+SARIMA holdout RMSE,0.2469
+Best ML holdout,Random Forest
+Best ML holdout RMSE,0.2360
+SARIMA beaten on holdout?,YES
+SARIMA CV mean RMSE,0.2672
+Best ML CV,Random Forest
+Best ML CV mean RMSE,0.2639
+SARIMA beaten on CV?,YES
+Python/R SARIMA agreement,|diff| = 0.0005

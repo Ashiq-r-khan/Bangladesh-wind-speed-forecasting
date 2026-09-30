@@ -1,0 +1,2 @@
+"Test","F_stat","p_value","Conclusion"
+"Seasonality in holdout errors (ANOVA by month)",0.6155,0.785,"No residual seasonality"

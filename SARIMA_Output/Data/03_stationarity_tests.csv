@@ -1,0 +1,5 @@
+"Series","ADF_stat","ADF_p","ADF_conclusion","KPSS_stat","KPSS_p","KPSS_conclusion","Suggested_d","Suggested_D"
+"Level",-15.5879,0.01,"Stationary",0.7168,0.012,"Non-stationary",1,1
+"First difference (d=1)",-20.3632,0.01,"Stationary",0.0083,0.1,"Stationary",1,1
+"Seasonal difference (D=1)",-6.4724,0.01,"Stationary",0.0462,0.1,"Stationary",1,1
+"First + seasonal difference",-13.3763,0.01,"Stationary",0.0073,0.1,"Stationary",1,1

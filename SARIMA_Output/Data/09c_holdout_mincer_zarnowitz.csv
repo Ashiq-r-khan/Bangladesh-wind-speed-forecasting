@@ -1,0 +1,2 @@
+"Test","Alpha","Beta","R2","F_stat","p_value","Conclusion"
+"Mincer-Zarnowitz",0.20223,0.89339,0.8497,1.9169,0.1708,"Forecast efficient (alpha=0, beta=1 not rejected)"

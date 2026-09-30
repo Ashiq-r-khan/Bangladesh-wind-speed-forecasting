@@ -1,0 +1,2 @@
+"Model","n_folds","Test_window","RMSE_mean","RMSE_sd","MAE_mean","MAE_sd","MAPE_mean","MAPE_sd","R2_mean","R2_sd"
+"SARIMA(0,1,1)(0,1,1)[12]",5,24,0.2672,0.0416,0.1978,0.0362,7.4877,1.6483,0.8169,0.0271

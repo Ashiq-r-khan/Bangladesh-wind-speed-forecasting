@@ -1,0 +1,6 @@
+"Test","Lag","Statistic","df","p_value","Conclusion"
+"Ljung-Box",6,6.8744,4,0.1427,"No autocorrelation (adequate)"
+"Ljung-Box",12,17.3826,10,0.0663,"No autocorrelation (adequate)"
+"Ljung-Box",18,24.5302,16,0.0785,"No autocorrelation (adequate)"
+"Ljung-Box",24,32.4376,22,0.0702,"No autocorrelation (adequate)"
+"Ljung-Box",36,43.4822,34,0.1278,"No autocorrelation (adequate)"

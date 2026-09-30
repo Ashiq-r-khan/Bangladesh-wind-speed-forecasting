@@ -1,0 +1,6 @@
+"Comparison","Mean_d","ACF_lag1","LjungBox6_stat","LjungBox6_p","Assumption"
+"SARIMA vs Random Forest",0.005266,-0.095,2.0394,0.916,"OK - differentials uncorrelated"
+"SARIMA vs XGBoost",-0.005337,0.0083,3.6562,0.7231,"OK - differentials uncorrelated"
+"SARIMA vs SVR",-0.075385,0.1511,2.4552,0.8734,"OK - differentials uncorrelated"
+"SARIMA vs LSTM",-0.001302,-0.2869,8.7719,0.1868,"OK - differentials uncorrelated"
+"SARIMA vs Hybrid",-0.017351,-0.3776,12.2416,0.0568,"OK - differentials uncorrelated"

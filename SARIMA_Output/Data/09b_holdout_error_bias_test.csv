@@ -1,0 +1,2 @@
+"Test","Mean_Error","t_stat","p_value","CI_lower","CI_upper","Conclusion"
+"Mean error = 0 (t-test)",-0.09173,-1.919,0.0675,-0.19062,0.00716,"Unbiased"

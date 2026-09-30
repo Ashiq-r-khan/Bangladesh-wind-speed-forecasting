@@ -1,0 +1,2 @@
+"Test","Lag","Statistic","p_value","Conclusion"
+"ARCH-LM",12,8.8926,0.7121,"Homoscedastic"

@@ -1,0 +1,10 @@
+"Comparison","Winner","Folds_won"
+"SARIMA vs Hybrid","Hybrid",1
+"SARIMA vs Random Forest","Random Forest",3
+"SARIMA vs Hybrid","SARIMA",4
+"SARIMA vs LSTM","SARIMA",5
+"SARIMA vs Random Forest","SARIMA",2
+"SARIMA vs SVR","SARIMA",4
+"SARIMA vs XGBoost","SARIMA",3
+"SARIMA vs SVR","SVR",1
+"SARIMA vs XGBoost","XGBoost",2

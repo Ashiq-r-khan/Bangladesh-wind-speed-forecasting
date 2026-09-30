@@ -1,0 +1,23 @@
+# Not part of the analysis
+delete/
+*.docx
+
+# Large or unused aggregated files (rebuilt by Data aggregation.R)
+Aggregated_Data/all_districts_daily_windspeed.csv
+Aggregated_Data/national_daily_windspeed.csv
+Aggregated_Data/district_*.csv
+Aggregated_Data/national_annual_windspeed.csv
+Aggregated_Data/national_seasonal_windspeed.csv
+
+# Colab checkpoints
+ML_Output/Checkpoints/
+
+# R / Python / OS clutter
+.Rhistory
+.RData
+.Rproj.user/
+.ipynb_checkpoints/
+__pycache__/
+desktop.ini
+Thumbs.db
+~$*

@@ -1,0 +1,5 @@
+"File","Rows","Source_modified","Exported"
+"00b_analysis_series_1981_2024.csv",528,"generated here","2026-09-30 16:18:00"
+"00c_exogenous_variables_1981_2024.csv",528,"2026-05-05 20:28:27","2026-09-30 16:18:00"
+"08b_holdout_forecast_sarima.csv",24,"2026-09-05 14:48:36","2026-09-30 16:18:00"
+"10c_cv_forecasts_sarima.csv",120,"2026-09-05 14:48:37","2026-09-30 16:18:00"

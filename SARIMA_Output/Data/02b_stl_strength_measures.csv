@@ -1,0 +1,7 @@
+"Measure","Value","Interpretation"
+"Seasonal strength (F_S)",0.8519,"Strongly seasonal"
+"Trend strength (F_T)",0.319,"Weak trend"
+"Seasonal amplitude (peak-trough, m/s)",1.8003,""
+"Variance share: seasonal (%)",78.5144,""
+"Variance share: trend (%)",4.8715,""
+"Variance share: remainder (%)",13.8453,""

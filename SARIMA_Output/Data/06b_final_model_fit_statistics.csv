@@ -1,0 +1,2 @@
+"Model","AIC","AICc","BIC","sigma2","loglik","n_train","n_parameters"
+"SARIMA(0,1,1)(0,1,1)[12]",213.29,213.341,225.805,0.086586,-103.645,492,2
